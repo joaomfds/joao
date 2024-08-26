@@ -1,6 +1,7 @@
+mv .bash_history ~/bash_history
+ls
+ls -la
 cd ..
 ls
-stow joao
-stow joao --adopt
+cd ..
 ls
-git add . --help
