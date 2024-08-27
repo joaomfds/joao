@@ -32,8 +32,8 @@
     ],
     "modules-right": [
         "backlight",
-        "custom/storage",
         "memory",
+        "custom/storage",
         "cpu",
         "battery",
         "pulseaudio",
