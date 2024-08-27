@@ -24,6 +24,7 @@ alias l.="eza -a | grep -e '^\.'"                                     # show onl
 alias l="ls -lah"
 alias mkdir='mkdir -p'
 alias ps='ps auxf'
+alias lf="yazi"
 
 ## Environment setup
 # Apply .profile: use this to put fish compatible .profile stuff in
