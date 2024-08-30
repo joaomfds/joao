@@ -44,6 +44,10 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “iq-kfor-guests” active: iq-kfor-guests (60%)"/>
+        <value type="string" value="wi-fi network connection “iq-kfor-guests” active: iq-kfor-guests (66%)"/>
+        <value type="string" value="wi-fi network connection “iq-kfor-guests” active: iq-kfor-guests (65%)"/>
+        <value type="string" value="wi-fi network connection “iq-kfor-guests” active: iq-kfor-guests (55%)"/>
         <value type="string" value="wi-fi network connection “iq-kfor-guests” active: iq-kfor-guests (82%)"/>
         <value type="string" value="wi-fi network connection “iq-kfor-guests” active: iq-kfor-guests (62%)"/>
         <value type="string" value="wi-fi network connection “iq-kfor-guests” active: iq-kfor-guests (77%)"/>
