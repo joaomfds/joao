@@ -5,4 +5,5 @@
   <property name="background-darkness" type="double" value="0.84999999999999998"/>
   <property name="font-name" type="string" value="Monospace 10"/>
   <property name="misc-show-unsafe-paste-dialog" type="bool" value="false"/>
+  <property name="misc-confirm-close" type="bool" value="false"/>
 </channel>
