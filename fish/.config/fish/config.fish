@@ -5,6 +5,7 @@ end
 set -gx PATH /bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
 set -gx LANG en_US.UTF-8
 set -gx LC_ALL en_US.UTF-8
+set -gx GTK_THEME Adwaita:dark
 
 export EDITOR="nano"
 export VISUAL="nano"

@@ -20,8 +20,9 @@ exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id picom
 exec --no-startup-id xinput set-prop 13 "libinput Tapping Enabled" 1
 exec --no-startup-id xinput set-prop 13 "libinput Natural Scrolling Enabled" 1
-exec --no-startup-id libinput-gestures-setup start
+exec --no-startup-id libinput-gestures-setup autostart start
 exec_always --no-startup-id autotiling
+exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.

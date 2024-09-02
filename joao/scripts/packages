@@ -16,6 +16,7 @@ cups
 duf
 dunst
 efibootmgr
+epiphany
 exo
 eza
 fastfetch
@@ -27,7 +28,11 @@ gestures
 git
 google-chrome
 grim
+grml-zsh-config
+gst-libav
 gst-plugin-pipewire
+gst-plugin-va
+gstreamer-vaapi
 gvfs
 htop
 hyprland
@@ -52,8 +57,10 @@ nano
 neovim
 network-manager-applet
 networkmanager
+noto-fonts
 nvtop
 nwg-launchers
+obs-studio
 otf-font-awesome
 parallel
 parole
@@ -100,6 +107,7 @@ wget
 wireless_tools
 wireplumber
 wlogout
+wlrobs-hg
 wmctrl
 wofi
 xarchiver
@@ -157,3 +165,4 @@ yay
 yazi
 zoxide
 zram-generator
+zsh
